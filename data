@@ -3,7 +3,7 @@ import pandas as pd
 # Load data from CSV file
 data = pd_csv('your_data.csv')
 
-# Display information about the data
+# Display information about the data.
 print("Data information:")
 print(data.info())
 
